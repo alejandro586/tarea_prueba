@@ -21,3 +21,13 @@ Me gusta explorar diferentes lenguajes de programación y también fortalecer mi
 - SQL  
 
 ---
+## 🚀 Proyectos realizados
+- Ejercicios prácticos en Python  
+- Pequeños proyectos académicos en HTML y CSS  
+
+---
+
+## 📝 Experiencia
+Actualmente estoy en proceso de aprendizaje.  
+He trabajado en proyectos académicos y personales que me han permitido aplicar conceptos básicos de programación y uso de herramientas digitales.  
+Mi objetivo es seguir creciendo como programador y desarrollar proyectos más completos en el futuro.  
