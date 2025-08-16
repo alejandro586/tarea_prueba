@@ -14,3 +14,10 @@ Me gusta explorar diferentes lenguajes de programación y también fortalecer mi
 
 ---
 
+## 📚 Lenguajes en los que estoy aprendiendo
+- Python  
+- Java  
+- PHP  
+- SQL  
+
+---
